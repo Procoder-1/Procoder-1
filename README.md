@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Procoder-1
 - 👀 I’m interested in learning new stuffs.
-- 🌱 I’m currently learning C,C#,Java,Javascript,Angular
+- 🌱 I’m currently learning Sql,R,Python and So on....
 - 💞️ I’m looking to collaborate on some cool projects...
 - 📫 How to reach me on my email which is amisha2532003@gmail.com
 
